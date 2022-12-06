@@ -54,7 +54,7 @@
     "emmet-codemirror": "^1.2.5",
     "errorhandler": "^1.4.2",
     "es6-map": "~0.1.1",
-    "express": "^4.13.3",
+    "express": "^4.17.3",
     "express-flash": "~0.0.2",
     "express-session": "^1.12.1",
     "express-state": "^1.2.0",
