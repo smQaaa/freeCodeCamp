@@ -140,7 +140,7 @@
     "babel-loader": "^6.2.1",
     "babel-plugin-add-module-exports": "^0.2.1",
     "babel-preset-stage-0": "^6.3.13",
-    "browser-sync": "^2.9.12",
+    "browser-sync": "^2.27.11",
     "chunk-manifest-webpack-plugin": "0.1.0",
     "commitizen": "^2.9.6",
     "cz-freecodecamp": "^1.0.0",
